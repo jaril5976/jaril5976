@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaril5976" alt="jaril5976" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://multicodegenius.com/](https://multicodegenius.com/)
+- 👨‍💻 All of my projects are available at [https://multicodegenius.com/what-we-do](https://multicodegenius.com/what-we-do)
 
 - 📝 I regularly write articles on [https://multicodegenius.com/blogs](https://multicodegenius.com/blogs)
 
